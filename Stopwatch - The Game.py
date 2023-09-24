@@ -1,5 +1,3 @@
-# @ Author : Utkarsh Ashok Pathrabe
-
 # Implementation of "Stopwatch: The Game"
 import simplegui
 
