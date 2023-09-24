@@ -1,5 +1,3 @@
-# @ Author: UTKARSH PATHRABE
-
 # Implementation of classic arcade game Pong
 
 import simplegui
